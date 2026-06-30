@@ -2,7 +2,11 @@
   "name": "techzone",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
    "homepage": "https://Pushpa-C-30.github.io/TechZone-E-commerce",
+=======
+  "homepage": "https://Pushpa-C-30.github.io/TechZone-E-commerce"
+>>>>>>> 9b382aec57765cb4580dc404e97315f5f5539046
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
@@ -17,8 +21,13 @@
     "react-scripts": "5.0.1",
     "react-toastify": "^11.1.0",
     "swiper": "^14.0.0",
+<<<<<<< HEAD
     "web-vitals": "^2.1.4"
    
+=======
+    "web-vitals": "^2.1.4",
+    
+>>>>>>> 9b382aec57765cb4580dc404e97315f5f5539046
   },
   "scripts": {
     "start": "react-scripts start",
