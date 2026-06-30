@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.7e671ff4.css",
-    "main.js": "/static/js/main.d28d5489.js",
-    "static/media/mobile.png": "/static/media/mobile.1286f1626e5a539ea2f8.png",
-    "static/media/keyboard.png": "/static/media/keyboard.3fc2f089d0d9aa5756bf.png",
-    "static/media/laptop.png": "/static/media/laptop.16fd0247916221c61d17.png",
-    "static/media/headphone.png": "/static/media/headphone.867804a513979267a23d.png",
-    "static/media/camera.png": "/static/media/camera.ca514dda07657e3521a0.png",
-    "static/media/speaker.png": "/static/media/speaker.7f80f167114b45b1f9ab.png",
-    "static/media/mouse.png": "/static/media/mouse.4a6839745b4ca0fa9be7.png",
-    "static/media/watch.png": "/static/media/watch.0d6edd539ca6cb59d454.png",
-    "index.html": "/index.html",
-    "main.7e671ff4.css.map": "/static/css/main.7e671ff4.css.map",
-    "main.d28d5489.js.map": "/static/js/main.d28d5489.js.map"
+    "main.css": "/TechZone-E-commerce/static/css/main.7e671ff4.css",
+    "main.js": "/TechZone-E-commerce/static/js/main.859d18b1.js",
+    "static/media/mobile.png": "/TechZone-E-commerce/static/media/mobile.1286f1626e5a539ea2f8.png",
+    "static/media/keyboard.png": "/TechZone-E-commerce/static/media/keyboard.3fc2f089d0d9aa5756bf.png",
+    "static/media/laptop.png": "/TechZone-E-commerce/static/media/laptop.16fd0247916221c61d17.png",
+    "static/media/headphone.png": "/TechZone-E-commerce/static/media/headphone.867804a513979267a23d.png",
+    "static/media/camera.png": "/TechZone-E-commerce/static/media/camera.ca514dda07657e3521a0.png",
+    "static/media/speaker.png": "/TechZone-E-commerce/static/media/speaker.7f80f167114b45b1f9ab.png",
+    "static/media/mouse.png": "/TechZone-E-commerce/static/media/mouse.4a6839745b4ca0fa9be7.png",
+    "static/media/watch.png": "/TechZone-E-commerce/static/media/watch.0d6edd539ca6cb59d454.png",
+    "index.html": "/TechZone-E-commerce/index.html",
+    "main.7e671ff4.css.map": "/TechZone-E-commerce/static/css/main.7e671ff4.css.map",
+    "main.859d18b1.js.map": "/TechZone-E-commerce/static/js/main.859d18b1.js.map"
   },
   "entrypoints": [
     "static/css/main.7e671ff4.css",
-    "static/js/main.d28d5489.js"
+    "static/js/main.859d18b1.js"
   ]
 }
