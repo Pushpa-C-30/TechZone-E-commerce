@@ -17,7 +17,7 @@
     "react-toastify": "^11.1.0",
     "swiper": "^14.0.0",
     "web-vitals": "^2.1.4",
-    "homepage": "https://Pushpa-C-30.github.io/TechZone-E-commerce"
+    "homepage": "https://pushpa-c-30.github.io/TechZone-E-commerce"
   },
   "scripts": {
     "start": "react-scripts start",
