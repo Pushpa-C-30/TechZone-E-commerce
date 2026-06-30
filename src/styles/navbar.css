@@ -1,0 +1,278 @@
+/* Google Font */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:"Poppins",sans-serif;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    background:#f5f7fb;
+}
+
+/* ================= NAVBAR ================= */
+
+.navbar{
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:80px;
+    background:#ffffff;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:0 7%;
+    box-shadow:0 8px 25px rgba(0,0,0,.08);
+    z-index:1000;
+}
+
+.logo{
+    text-decoration:none;
+    font-size:30px;
+    font-weight:700;
+    color:#4f46e5;
+}
+
+/* ============ MENU ============= */
+
+.nav-links{
+    display:flex;
+    align-items:center;
+    gap:35px;
+    list-style:none;
+}
+
+.nav-links li{
+    list-style:none;
+}
+
+.nav-links a{
+    position:relative;
+    text-decoration:none;
+    color:#333;
+    font-size:17px;
+    font-weight:500;
+    transition:.3s;
+}
+
+/* Hover */
+
+.nav-links a:hover{
+    color:#4f46e5;
+}
+
+/* Active */
+
+.nav-links a.active{
+    color:#4f46e5;
+    font-weight:600;
+}
+
+.nav-links a::after{
+    content:"";
+    position:absolute;
+    left:0;
+    bottom:-8px;
+    width:0%;
+    height:3px;
+    background:#4f46e5;
+    transition:.3s;
+    border-radius:20px;
+}
+
+.nav-links a:hover::after,
+.nav-links a.active::after{
+    width:100%;
+}
+
+/* ============ ICONS ============= */
+
+.nav-icons{
+    display:flex;
+    align-items:center;
+    gap:25px;
+}
+
+.icon{
+    position:relative;
+    color:#333;
+    font-size:22px;
+    transition:.3s;
+}
+
+.icon:hover{
+    color:#4f46e5;
+    transform:translateY(-2px);
+}
+
+.icon span{
+    position:absolute;
+    top:-8px;
+    right:-10px;
+    width:20px;
+    height:20px;
+    background:#ff3b30;
+    color:white;
+    font-size:12px;
+    border-radius:50%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-weight:600;
+}
+
+/* ========= MOBILE MENU ========= */
+
+.menu-toggle{
+    display:none;
+    font-size:28px;
+    cursor:pointer;
+    color:#333;
+}
+
+/* =========== TABLET =========== */
+
+@media(max-width:992px){
+
+.navbar{
+    padding:0 5%;
+}
+
+.nav-links{
+    gap:22px;
+}
+
+}
+
+/* =========== MOBILE =========== */
+
+@media(max-width:768px){
+
+.menu-toggle{
+    display:block;
+}
+
+.nav-links{
+
+position:absolute;
+
+top:80px;
+left:-100%;
+
+width:100%;
+
+background:white;
+
+display:flex;
+flex-direction:column;
+
+padding:25px 0;
+
+gap:25px;
+
+transition:.4s;
+
+box-shadow:0 10px 25px rgba(0,0,0,.08);
+
+}
+
+.nav-links.active{
+
+left:0;
+
+}
+
+.nav-icons{
+
+margin-right:55px;
+
+}
+
+.logo{
+
+font-size:25px;
+
+}
+
+}
+
+/* Small Mobile */
+
+@media(max-width:480px){
+
+.logo{
+
+font-size:22px;
+
+}
+
+.nav-icons{
+
+gap:15px;
+
+}
+
+.icon{
+
+font-size:20px;
+
+}
+
+}
+.user-section{
+display:flex;
+align-items:center;
+gap:10px;
+}
+
+.user-icon{
+font-size:20px;
+color:#4f46e5;
+}
+
+.username{
+font-size:15px;
+font-weight:600;
+color:#4f46e5;
+white-space:nowrap;
+}
+
+.logout-btn{
+background:#4f46e5;
+color:white;
+border:none;
+padding:8px 12px;
+border-radius:8px;
+cursor:pointer;
+display:flex;
+align-items:center;
+justify-content:center;
+transition:.3s;
+}
+
+.logout-btn:hover{
+background:#3730a3;
+}
+
+@media(max-width:768px){
+
+.user-section{
+gap:6px;
+}
+
+.username{
+display:none;
+}
+
+.logout-btn{
+padding:8px;
+}
+
+}
