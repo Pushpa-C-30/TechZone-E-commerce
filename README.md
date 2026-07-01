@@ -38,8 +38,8 @@ TechZone is a frontend e-commerce application developed to showcase modern web d
 * **React Router DOM**
 * **Context API**
 * **JavaScript (ES6+)**
-* **HTML5**
-* **CSS3**
+* **HTML**
+* **CSS**
 * **React Icons**
 * **Git & GitHub**
 * **GitHub Pages**
@@ -112,7 +112,6 @@ This project was developed to showcase skills in **React.js**, **Context API**, 
 
 This project is open-sourse and available under the **MIT License**.
 
----
 © 2026 TechZone. Designed & Developed by Pushpa C.
 
 
