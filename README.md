@@ -38,8 +38,8 @@ TechZone is a frontend e-commerce application developed to showcase modern web d
 * **React Router DOM**
 * **Context API**
 * **JavaScript (ES6+)**
-* **HTML5**
-* **CSS3**
+* **HTML**
+* **CSS**
 * **React Icons**
 * **Git & GitHub**
 * **GitHub Pages**
@@ -98,6 +98,13 @@ This project helped strengthen my understanding of:
 This project was developed as part of my journey to enhance my frontend development skills. I sincerely appreciate the technologies, tools, and open-source community that made this project possible.
 
 ---
+## ⚠️ Project Disclaimer
+
+**TechZone E-commerce** is a **frontend demonstration project** created for educational and portfolio purposes. It is **not a real shopping website** and does not sell actual products or process real transactions.
+
+The products, images, prices, and other content displayed in the application are used solely for demonstration purposes. Features such as the shopping cart and wishlist simulate the user experience of an e-commerce platform and do not involve real orders, payments, or user accounts.
+
+This project was developed to showcase skills in **React.js**, **Context API**, **React Router**, responsive web design, and modern frontend development practices.
 
 ---
 
@@ -105,7 +112,6 @@ This project was developed as part of my journey to enhance my frontend developm
 
 This project is open-sourse and available under the **MIT License**.
 
----
 © 2026 TechZone. Designed & Developed by Pushpa C.
 
 
