@@ -33,7 +33,7 @@ function Footer() {
       <hr />
 
       <p className="copyright">
-        © 2026 TechZone. All Rights Reserved.
+        © 2026 TechZone. Designed & Developed by Pushpa C.
       </p>
 
     </footer>
