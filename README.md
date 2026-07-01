@@ -1,70 +1,111 @@
-# Getting Started with Create React App
+# 🛍️ TechZone E-commerce Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, responsive, and feature-rich e-commerce web application built with **React.js**. TechZone provides an intuitive online shopping experience with a clean user interface, allowing users to browse products, view product details, manage their shopping cart, and save favorite products to a wishlist.
 
-## Available Scripts
+## 🚀 Live Demo
 
-In the project directory, you can run:
+Website: https://pushpa-c-30.github.io/TechZone-E-commerce
 
-### `npm start`
+Github repository: https://github.com/Pushpa-C-30/TechZone-E-commerce
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
+## 📖 Project Overview
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+TechZone is a frontend e-commerce application developed to showcase modern web development practices using React. The application emphasizes responsive design, reusable components, efficient state management, and an engaging user experience across desktop and mobile devices.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ✨ Features
 
-### `npm run build`
+* 🏠 Modern Home Page
+* 🛍️ Product Listing
+* 📄 Product Details Page
+* 🛒 Shopping Cart
+* ❤️ Wishlist
+* 🔍 Product Search
+* 📂 Category-based Product Browsing
+* ➕ Increase/Decrease Product Quantity
+* 💰 Order Summary
+* 📱 Fully Responsive Design
+* 🎨 Premium & User-Friendly Interface
+* ⚡ Fast and Smooth Navigation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🛠️ Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* **React.js**
+* **React Router DOM**
+* **Context API**
+* **JavaScript (ES6+)**
+* **HTML5**
+* **CSS3**
+* **React Icons**
+* **Git & GitHub**
+* **GitHub Pages**
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📂 Project Structure
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```text
+src/
+│── assets/
+│── components/
+│── context/
+│── data/
+│── pages/
+│── styles/
+│── App.js
+│── index.js
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## 🎯 Future Enhancements
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* User Authentication
+* Secure Login & Registration
+* Payment Gateway Integration
+* Backend API Integration
+* Product Reviews & Ratings
+* Order History
+* User Profile Management
+* Admin Dashboard
+* Product Filtering & Sorting
+* Dark Mode
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 📚 Learning Outcomes
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This project helped strengthen my understanding of:
 
-### Analyzing the Bundle Size
+* React Component Architecture
+* Context API for State Management
+* Client-side Routing with React Router
+* Responsive Web Design
+* Component Reusability
+* Modern CSS Techniques
+* Git & GitHub Workflow
+* Deploying React Applications using GitHub Pages
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 🙏 Acknowledgements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This project was developed as part of my journey to enhance my frontend development skills. I sincerely appreciate the technologies, tools, and open-source community that made this project possible.
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## 📄 License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This project is open-sourse and available under the **MIT License**.
 
-### `npm run build` fails to minify
+---
+© 2026 TechZone. Designed & Developed by Pushpa C.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
