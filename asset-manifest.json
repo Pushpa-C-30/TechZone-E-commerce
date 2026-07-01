@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TechZone-E-commerce/static/css/main.7e671ff4.css",
-    "main.js": "/TechZone-E-commerce/static/js/main.859d18b1.js",
+    "main.js": "/TechZone-E-commerce/static/js/main.919d3bcb.js",
     "static/media/mobile.png": "/TechZone-E-commerce/static/media/mobile.1286f1626e5a539ea2f8.png",
     "static/media/keyboard.png": "/TechZone-E-commerce/static/media/keyboard.3fc2f089d0d9aa5756bf.png",
     "static/media/laptop.png": "/TechZone-E-commerce/static/media/laptop.16fd0247916221c61d17.png",
@@ -12,10 +12,10 @@
     "static/media/watch.png": "/TechZone-E-commerce/static/media/watch.0d6edd539ca6cb59d454.png",
     "index.html": "/TechZone-E-commerce/index.html",
     "main.7e671ff4.css.map": "/TechZone-E-commerce/static/css/main.7e671ff4.css.map",
-    "main.859d18b1.js.map": "/TechZone-E-commerce/static/js/main.859d18b1.js.map"
+    "main.919d3bcb.js.map": "/TechZone-E-commerce/static/js/main.919d3bcb.js.map"
   },
   "entrypoints": [
     "static/css/main.7e671ff4.css",
-    "static/js/main.859d18b1.js"
+    "static/js/main.919d3bcb.js"
   ]
 }
