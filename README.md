@@ -2,7 +2,7 @@
 
 A modern, responsive, and feature-rich e-commerce web application built with **React.js**. TechZone provides an intuitive online shopping experience with a clean user interface, allowing users to browse products, view product details, manage their shopping cart, and save favorite products to a wishlist.
 
-## 🚀 Live Demo
+## 🌐 Live Demo
 
 Website: https://pushpa-c-30.github.io/TechZone-E-commerce
 
